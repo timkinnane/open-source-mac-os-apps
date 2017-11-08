@@ -1,10 +1,10 @@
-> List of awesome opensource applications for macOS.
+> List of awesome opensource applications for macOS. [![OSSIcon]](https://en.wikipedia.org/wiki/Open-source_software)
 
 ## Applications
 
 ### Audio
 
-- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. [![OSSIcon]](https://github.com/kyleneideck/BackgroundMusic)
 
 ### Video
 - [IINA](https://github.com/lhc70000/iina) - The modern video player for macOS. 
@@ -208,4 +208,4 @@
 * [OSXCollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X.
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for Mac OS X.
 
-[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[OSSIcon]: ./Icons/opensource_icon_24x24.png
