@@ -102,7 +102,7 @@ You can see which language is using for app. Curently there are next languages:
 
 ### Chat
 
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The leading free open source team chat Slack alternative. ![[JavascriptIcon]
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The leading free open source team chat Slack alternative. ![JavascriptIcon]
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. ![ObjectiveCIcon]
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app. ![CppIcon]
 - [Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X. ![ObjectiveCIcon]
